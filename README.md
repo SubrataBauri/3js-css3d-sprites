@@ -1,4 +1,5 @@
-# 3js-css3d-sprites
+# 3js-css3d-sprites project
+
 
 ![screenshot 5](https://user-images.githubusercontent.com/4235578/38172703-ead42ca8-35ce-11e8-83a7-e4570aa6f974.png)
 
